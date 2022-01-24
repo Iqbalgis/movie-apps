@@ -1,4 +1,4 @@
-# moviez_streaming_light
+# Flutter Movie
 
 A new Flutter project.
 
